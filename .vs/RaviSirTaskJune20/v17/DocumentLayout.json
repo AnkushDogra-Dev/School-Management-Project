@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\models\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:models\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\migrations\\20240624072139_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:migrations\\20240624072139_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\migrations\\20240624072401_first1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:migrations\\20240624072401_first1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\migrations\\20240624072448_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:migrations\\20240624072448_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\models\\sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:models\\sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|c:\\users\\ditspc13\\desktop\\asp.netcore\\ravisirtaskjune20\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B16F48-803E-4E60-8E9C-A21C5FAA119C}|RaviSirTaskJune20.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teachers.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\Teachers.cs",
+              "RelativeDocumentMoniker": "Models\\Teachers.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\Teachers.cs",
+              "RelativeToolTip": "Models\\Teachers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:18:06.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Teachers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Teachers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:19:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:18:53.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Subjects\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Subjects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Subjects\\Create.cshtml",
+              "RelativeToolTip": "Views\\Subjects\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:14:26.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAADwv1kAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:00:39.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Teachers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Teachers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Create.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAIkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:00:30.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:52:03.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAswPAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:53.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:39:42.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:39:33.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Models\\Students.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\Students.cs",
+              "RelativeToolTip": "Models\\Students.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:22.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sections.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\Sections.cs",
+              "RelativeDocumentMoniker": "Models\\Sections.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\Sections.cs",
+              "RelativeToolTip": "Models\\Sections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:20.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\Classes.cs",
+              "RelativeToolTip": "Models\\Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:18.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240624072448_Second.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Migrations\\20240624072448_Second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240624072448_Second.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Migrations\\20240624072448_Second.cs",
+              "RelativeToolTip": "Migrations\\20240624072448_Second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:09.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240624072401_First1.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Migrations\\20240624072401_First1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240624072401_First1.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Migrations\\20240624072401_First1.cs",
+              "RelativeToolTip": "Migrations\\20240624072401_First1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:07.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:04.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\SectionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SectionsController.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\SectionsController.cs",
+              "RelativeToolTip": "Controllers\\SectionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:03.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:39:02.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "Controllers\\ClassesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:38:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:38:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240624072139_First.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Migrations\\20240624072139_First.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240624072139_First.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Migrations\\20240624072139_First.cs",
+              "RelativeToolTip": "Migrations\\20240624072139_First.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:38:42.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:38:19.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:37:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ditspc13\\Desktop\\Asp.NetCore\\RaviSirTaskJune20\\Views\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:37:24.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
